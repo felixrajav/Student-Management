@@ -1,0 +1,32 @@
+.navbar {
+    margin: 0;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(126, 110, 110);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .left-section {
+    display: flex;
+    align-items: center;
+  }
+  
+  .middle-section {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .search-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .right-section {
+    display: flex;
+    align-items: center;
+  }
+  
